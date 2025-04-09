@@ -1,6 +1,9 @@
-# Data Scientist
+# Data Scientist / Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Scala, Natural Language Processing, Large Language Models, LangChain, Pytorch, AWS,
+
+## Summary
+Data Scientist specializing in AI, LLMs, and NLP, with expertise in building and optimizing scalable ML solutions. Proficient in Python, PyTorch, and Hugging Face, with experience fine-tuning transformer models (BERT, T5) and deploying AI systems on AWS (SageMaker, Lambda, EC2). Strong background in MLOps, model optimization, and cloud-based AI deployments. Passionate about leveraging AI to solve complex problems and drive business impact.
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
